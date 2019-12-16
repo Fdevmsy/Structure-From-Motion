@@ -37,9 +37,9 @@ Inner match
 
 ![inlier_match](output/inlier_match.png)
 
-<img src="/Users/sm1045092/Library/Application Support/typora-user-images/image-20191022135316020.png" alt="image-20191022135316020" style="zoom:50%;" />
+<img src="output/image-20191022135316020.png" alt="image-20191022135316020" style="zoom:50%;" />
 
-<img src="/Users/sm1045092/Library/Application Support/typora-user-images/image-20191022135420567.png" alt="image-20191022135420567" style="zoom:70%;" />
+<img src="output/image-20191022135420567.png" alt="image-20191022135420567" style="zoom:70%;" />
 
 #### 0-2: 
 
@@ -69,9 +69,9 @@ Inner
 
 
 
-<img src="/Users/sm1045092/Library/Application Support/typora-user-images/image-20191022135910506.png" alt="image-20191022135910506" style="zoom:50%;" />
+<img src="output/image-20191022135910506.png" alt="image-20191022135910506" style="zoom:50%;" />
 
-<img src="/Users/sm1045092/Library/Application Support/typora-user-images/image-20191022135944241.png" alt="image-20191022135944241" style="zoom:60%;" />
+<img src="output/image-20191022135944241.png" alt="image-20191022135944241" style="zoom:60%;" />
 
 #### 1-2: 
 
@@ -99,11 +99,11 @@ Inner
 
 ![inlier_match12](output/inlier_match12.png)
 
-<img src="/Users/sm1045092/Library/Application Support/typora-user-images/image-20191022140233260.png" alt="image-20191022140233260" style="zoom:70%;" />
+<img src="output/image-20191022140233260.png" alt="image-20191022140233260" style="zoom:70%;" />
 
 
 
-![image-20191022140313846](/Users/sm1045092/Library/Application Support/typora-user-images/image-20191022140313846.png)
+![image-20191022140313846](output/image-20191022140313846.png)
 
 ### Analysis 
 
