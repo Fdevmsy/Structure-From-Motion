@@ -105,14 +105,4 @@ Inner
 
 ![image-20191022140313846](output/image-20191022140313846.png)
 
-### Analysis 
-
-The method works fine in reconstruction the buildings. From the 3D plot we can discover the 3D structure of buildings, we can even see a lit bit of the sculpture of the horse. 
-
-However, this method is considered "indirect method", which relies on feature matching. Only matched features are reconstructed. This results in sparse reconstruction, we can observe holes everywhere. 
-
-One way to get denser reconstruction is to use direct method, similar to the stereo method we talked about in class. After we get camera pose, we first rectify the camera, then construct points by matching neighbor color intensities for each pixel and compute disparity map. OF course this method may fail in some area like white wall, sky, floor, due to low color intensity gradient, but still we get much denser results. 
-
-Speaking of the accuracy of reconstruction, since we totally have 3 images, we can actually run a global bundle adjustment to optimization R, t and 3D locations. 
-
-​    
+ 
